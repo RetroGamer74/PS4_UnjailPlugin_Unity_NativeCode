@@ -1,0 +1,9 @@
+﻿  UnityPrxPlugin.cpp
+  pluginLib.cpp
+  pluginunjail.cpp
+  prx.cpp
+E:\PS4UnjailPlugin_UnityNativeCode\prx.cpp(47,19): warning : unused variable 'data' [-Wunused-variable]
+E:\PS4UnjailPlugin_UnityNativeCode\prx.cpp(46,11): warning : unused variable 'size' [-Wunused-variable]
+  syscall.cpp
+  unjail.c
+  NativePluginPS4Example.vcxproj -> E:\PS4UnjailPlugin_UnityNativeCode\..\Plugins\PS4\libPS4Unjail.prx
