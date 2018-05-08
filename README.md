@@ -8,7 +8,7 @@ When you compile it you will get in the upper folder of the project a new folder
 
 That's all.
 
-# CREDTITS
+# CREDITS
 
 This Unity Plugin was developed by @retrogamer_74 and the source code for unjail is part of the libHB developed by @cfwprophet
 
